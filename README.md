@@ -30,6 +30,11 @@ Consiste em tudo aquilo que estará a mostra ou faz parte dos itens visíveis em
 |h1 até h6| Títulos e subtítulos|
 |p| Texto simples, parágrafos|
 |blockquote| Citação|
+|ol| Lista ordenada|
+|ul| Lista não ordenada|
+|li| os itens a serem colocados dentro das tags ul ou ol|
+|button | Botão|
+|a| "âncora", direciona para um link externo|
 
 #### Atributos
 Uma tag muitas vezes precisará de uma espécie de "extra", para facilitar tanto na edição e estilização, como em complementar determinado item um site. Os atributos estão escritos dentro das tags. Exemplo:<br>
@@ -49,6 +54,7 @@ A tag input originalmente preenche um campo em texto, mas colocando o atributo t
 |src| abreviatura de source, é um link tanto de site como de localização de pasta no computador, para imagens|
 |width| Largura da imagem|
 |height| Altura da imagem|
+|href| Link de direcionamento|
 ### Tags de estilização
 | Tags | Definição |
 |-------|------------|
